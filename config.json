@@ -1,0 +1,1 @@
+{"transform":{"include":[],"exclude":["Name"],"dropna":true,"drop_duplicates":true,"pipeline":true,"nums":["CGPA","SOP","TOEFLScore","GREScore","UniversityRating","LOR"],"cats":["Research"],"target_col":"Admitted"},"model":{"class":"DecisionTreeRegressor","params":{}}}
